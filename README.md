@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelobrj1&theme=algolia&show_icons=true) <br>
 ##
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,next,tailwind,html,css,postgres,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,next,tailwind,prisma,html,css,postgres,sass)](https://skillicons.dev)
 
 
  
